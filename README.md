@@ -1,2 +1,2 @@
-# Blog-Back-End
-NodeJS API back-end for blog page.
+# Api Template
+NodeJS API Template
